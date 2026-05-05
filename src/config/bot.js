@@ -278,10 +278,10 @@ export const botConfig = {
     defaultRole: null,
 
     // Channel ID where birthday announcements are posted.
-    announcementChannel: null,
+    announcementChannel: :briefcase our-team,
 
     // Timezone used to calculate birthday dates.
-    timezone: "UTC",
+    timezone: "CDT",
   },
 
   // =========================
