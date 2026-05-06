@@ -17,8 +17,8 @@ export const botConfig = {
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
     // 0 = Playing
-    // 1 = Streaming
-    // 2 = Listening
+    // 1 = Listening
+    // 2 = Streaming
     // 3 = Watching
     // 4 = Status
     // 5 = Competing
@@ -27,7 +27,7 @@ export const botConfig = {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "24 Hour Service!",
         // Activity type number (0 = Playing).
-        type: 5,
+        type: 2,
       },
     ],
   },
