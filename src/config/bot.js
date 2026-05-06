@@ -28,11 +28,9 @@ export const botConfig = {
         name: "Available For Ticket Support 24/7",
         // Activity type number (0 = Playing).
         type: 4,
-        type: 1,
       },
      ],
     },
-   ],
   // =========================
   // COMMAND BEHAVIOR
   // =========================
